@@ -391,10 +391,3 @@ const customers = {
     return data;
   }
 }
-
-
-## 📄 Lisans ve Kullanım Koşulları
-
-Bu proje eğitim amaçlı geliştirilmiştir. Ticari kullanım için geliştirici ile iletişime geçiniz.
-
----
