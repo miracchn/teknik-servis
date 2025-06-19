@@ -280,9 +280,8 @@ Sistem 7 ana tablo ve aralarındaki ilişkilerden oluşmaktadır:
 
 ### 1. Proje Kurulumu
 bash
-cd teknik-servis-boss
-npm install
-cd frontend && npm install
+npm run install-deps
+npm run dev
 
 
 ### 2. Environment Ayarları
