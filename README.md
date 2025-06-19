@@ -398,8 +398,3 @@ const customers = {
 Bu proje eğitim amaçlı geliştirilmiştir. Ticari kullanım için geliştirici ile iletişime geçiniz.
 
 ---
-
-**Proje Sahibi**: [Geliştirici Adı]  
-**İletişim**: [Email Adresi]  
-**Proje Tarihi**: Aralık 2024  
-**Versiyon**: 1.0.0
