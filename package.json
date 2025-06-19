@@ -9,7 +9,16 @@
     "lint": "cd frontend && npm run lint",
     "install-deps": "cd frontend && npm install"
   },
-  "keywords": ["teknik-servis", "next.js", "supabase", "typescript"],
+  "keywords": [
+    "teknik-servis",
+    "next.js",
+    "supabase",
+    "typescript"
+  ],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.50.0",
+    "supabase": "^2.26.9"
+  }
 }
