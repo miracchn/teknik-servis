@@ -279,9 +279,8 @@ Sistem 7 ana tablo ve aralarındaki ilişkilerden oluşmaktadır:
 - Supabase hesabı
 
 ### 1. Proje Kurulumu
-bash
-npm run install-deps
-npm run dev
+- npm run install-deps
+- npm run dev
 
 
 ### 2. Environment Ayarları
